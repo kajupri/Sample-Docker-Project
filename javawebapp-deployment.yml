@@ -5,6 +5,7 @@ metadata:
   labels:
     name: javawebapp
   name: java-controller
+  I Love United States
 spec:
   replicas: 1
   template:
